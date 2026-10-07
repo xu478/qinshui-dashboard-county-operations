@@ -1,0 +1,26 @@
+{
+  "source": "user-provided",
+  "providedAt": "2026-10-06",
+  "currency": "CNY",
+  "year": 2026,
+  "scope": "门店与后勤合计销售额",
+  "forecastPolicy": "configured-monthly-estimates",
+  "months": [
+    { "month": "2026-06", "actualSalesCny": 163873.98, "estimatedSalesCny": 100000, "actualPeriodEnd": "2026-06-30", "partial": false },
+    { "month": "2026-07", "actualSalesCny": 588329.64, "estimatedSalesCny": 300000, "actualPeriodEnd": "2026-07-31", "partial": false },
+    { "month": "2026-08", "actualSalesCny": 697765.69, "estimatedSalesCny": 600000, "actualPeriodEnd": "2026-08-31", "partial": false },
+    { "month": "2026-09", "actualSalesCny": 1356800, "estimatedSalesCny": 1492480, "actualPeriodEnd": "2026-09-30", "partial": false,
+      "actualRevision": { "source": "user-request-correction", "previousActualSalesCny": 1064467.35, "actualSalesCny": 1356800, "revisedAt": "2026-10-06" },
+      "estimateRevisionHistory": [ { "source": "user-request", "previousEstimatedSalesCny": 1500000, "estimatedSalesCny": 1356800, "revisedAt": "2026-10-06" } ],
+      "estimateRevision": { "source": "user-request-correction", "previousEstimatedSalesCny": 1356800, "estimatedSalesCny": 1492480, "basisActualSalesCny": 1356800, "multiplier": 1.1, "revisedAt": "2026-10-06" } },
+    { "month": "2026-10", "actualSalesCny": 183088.28, "estimatedSalesCny": 2002600, "actualPeriodEnd": "2026-10-05", "partial": true,
+      "estimateAdjustment": { "source": "user-request", "previousEstimatedSalesCny": 3000000, "multiplier": 0.9, "adjustedAt": "2026-10-06", "superseded": true, "supersededAt": "2026-10-06" },
+      "estimateRevisionHistory": [ { "source": "user-request", "previousEstimatedSalesCny": 2700000, "estimatedSalesCny": 1512600, "revisedAt": "2026-10-06", "replacesPolicy": "configured-compound-monthly-growth" } ],
+      "estimateRevision": { "source": "user-request-correction", "previousEstimatedSalesCny": 1512600, "estimatedSalesCny": 2002600, "revisedAt": "2026-10-06" } }
+  ],
+  "futureEstimates": [
+    { "month": "2026-11", "estimatedSalesCny": 2020000, "source": "user-authorized-placeholder", "configuredAt": "2026-10-06", "guidance": "200万元左右" },
+    { "month": "2026-12", "estimatedSalesCny": 3120000, "source": "user-authorized-placeholder", "configuredAt": "2026-10-06", "guidance": "300万元出头，不超过320万元", "maximumSalesCny": 3200000 },
+    { "month": "2027-01", "estimatedSalesCny": 3580000, "source": "user-authorized-placeholder", "configuredAt": "2026-10-06", "guidance": "350万元左右，不超过370万元", "maximumSalesCny": 3700000 }
+  ]
+}

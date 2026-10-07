@@ -1,0 +1,1527 @@
+[
+  {
+    "id": "canteen_row_002",
+    "name": "樊村河日料车间",
+    "sourceName": "樊村河日料车间",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 2,
+    "originalCoordinate": "112.110878,35.801426",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.110878,
+    "latitude": 35.801426,
+    "address": "沁水县樊村河乡镇府",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D2",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_003",
+    "name": "嘉峰镇政府",
+    "sourceName": "嘉峰镇政府",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 3,
+    "originalCoordinate": "112.536578,35.61063",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.536578,
+    "latitude": 35.61063,
+    "address": "沁水县嘉峰镇潘庄村",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D3",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_004",
+    "name": "胡底镇政府",
+    "sourceName": "胡底镇政府",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 4,
+    "originalCoordinate": "112.60898,35.708014",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.60898,
+    "latitude": 35.708014,
+    "address": "沁水县坪曲线胡底乡政府",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D4",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_005",
+    "name": "柿庄镇政府",
+    "sourceName": "柿庄镇政府",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 5,
+    "originalCoordinate": "112.710739,35.87768",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.710739,
+    "latitude": 35.87768,
+    "address": "沁水县柿庄55号",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D5",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_006",
+    "name": "柿庄林业站",
+    "sourceName": "柿庄林业站",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 6,
+    "originalCoordinate": "112.18796,35.692882",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.18796,
+    "latitude": 35.692882,
+    "address": "",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D6",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_007",
+    "name": "河头共享食堂",
+    "sourceName": "河头共享食堂",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 7,
+    "originalCoordinate": "112.386131,35.731591",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.386131,
+    "latitude": 35.731591,
+    "address": "沁水县河头村S331线河头村文化活动中心",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D7",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_008",
+    "name": "端氏开发区",
+    "sourceName": "端氏开发区",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 8,
+    "originalCoordinate": "112.517735,35.66728",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.517735,
+    "latitude": 35.66728,
+    "address": "沁水线端氏镇端氏治超办公室西南441米",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D8",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_009",
+    "name": "政府大灶",
+    "sourceName": "政府大灶",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 9,
+    "originalCoordinate": "112.186532,35.690487",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.186532,
+    "latitude": 35.690487,
+    "address": "沁水县新建西街99号",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D9",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_010",
+    "name": "政府小灶",
+    "sourceName": "政府小灶",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 10,
+    "originalCoordinate": "112.186532,35.690487",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.186532,
+    "latitude": 35.690487,
+    "address": "沁水县新建西街99号",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D10",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_011",
+    "name": "人大大灶",
+    "sourceName": "人大大灶",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 11,
+    "originalCoordinate": "112.180657,35.687509",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.180657,
+    "latitude": 35.687509,
+    "address": "沁水县新建西街669号",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D11",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_012",
+    "name": "人大小灶",
+    "sourceName": "人大小灶",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 12,
+    "originalCoordinate": "112.180657,35.687509",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.180657,
+    "latitude": 35.687509,
+    "address": "沁水县新建西街669号",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D12",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_013",
+    "name": "龙港镇政府",
+    "sourceName": "龙港镇政府",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 13,
+    "originalCoordinate": "112.172667,35.683611",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.172667,
+    "latitude": 35.683611,
+    "address": "沁水县新建西街1515号",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D13",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_014",
+    "name": "东安食堂",
+    "sourceName": "东安食堂",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 14,
+    "originalCoordinate": "112.195218,35.690434",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.195218,
+    "latitude": 35.690434,
+    "address": "沁水县龙岗路129号",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D14",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_015",
+    "name": "杨河食堂",
+    "sourceName": "杨河食堂",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 15,
+    "originalCoordinate": "112.243848,35.68647",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.243848,
+    "latitude": 35.68647,
+    "address": "沁水县滨河南路30号",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D15",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_016",
+    "name": "交通运输事业发展中心",
+    "sourceName": "交通运输事业发展中心",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 16,
+    "originalCoordinate": "112.86075,35.478505",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.86075,
+    "latitude": 35.478505,
+    "address": "沁水县331省道山水和园对面",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D16",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_017",
+    "name": "梁庄食堂",
+    "sourceName": "梁庄食堂",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 17,
+    "originalCoordinate": "112.110707,35.655321",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.110707,
+    "latitude": 35.655321,
+    "address": "沁水县臻相农业科技有限公司",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D17",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_018",
+    "name": "沁水农林投食堂",
+    "sourceName": "沁水农林投食堂",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 18,
+    "originalCoordinate": "112.193757,35.689357",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.193757,
+    "latitude": 35.689357,
+    "address": "沁水县杨河新路梅杏市场内",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D18",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_019",
+    "name": "恒达城市开发投资",
+    "sourceName": "恒达城市开发投资",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 19,
+    "originalCoordinate": "112.163033,35.679437",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.163033,
+    "latitude": 35.679437,
+    "address": "沁水县日凤县移民小区西北侧90米",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D19",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_020",
+    "name": "苏庄大食堂",
+    "sourceName": "苏庄大食堂",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 20,
+    "originalCoordinate": "112.476,35.462169",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.476,
+    "latitude": 35.462169,
+    "address": "沁水县 苏庄派出所",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D20",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_021",
+    "name": "沁水县人民医院",
+    "sourceName": "沁水县人民医院",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 21,
+    "originalCoordinate": "112.231395,35.681623",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.231395,
+    "latitude": 35.681623,
+    "address": "沁水县人民医院",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D21",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_022",
+    "name": "沁水县公安局",
+    "sourceName": "沁水县公安局",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 22,
+    "originalCoordinate": "112.213357,35.687363",
+    "sourceWebsite": null,
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.20828066725963,
+    "latitude": 35.68728653851681,
+    "originalSourceWebsite": "https://jingweidu.bmcx.com/",
+    "coordinateCorrection": {
+      "source": "user-provided-address-relookup",
+      "providedAt": "2026-10-06",
+      "rawCoordinate": "112.20828066725963,35.68728653851681",
+      "coordinateSystem": "UNKNOWN",
+      "providerConfirmed": false,
+      "initialWorkbookSha256": "edcd0e7864630836caada29b9920816848995c6cb1ba10e1477b4cb2a3e3af64",
+      "latestWorkbookSha256": "cf23f470af9678ea0e196a3ca2e8b74d66ce3ef090c2fc1c52300650d659c8e1",
+      "matchesLatestSourceCell": true
+    },
+    "address": "沁水县新建东街2509号",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D22",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_023",
+    "name": "龙港镇派出所",
+    "sourceName": "龙港镇派出所",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 23,
+    "originalCoordinate": "112.179033,35.686548",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.179033,
+    "latitude": 35.686548,
+    "address": "",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D23",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_024",
+    "name": "端氏镇派出所",
+    "sourceName": "端氏镇派出所",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 24,
+    "originalCoordinate": "112.51714,35.665986",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.51714,
+    "latitude": 35.665986,
+    "address": "山西省晋城市沁水县端氏镇端氏村新南街027号",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D24",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_025",
+    "name": "嘉峰镇派出所",
+    "sourceName": "嘉峰镇派出所",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 25,
+    "originalCoordinate": "112.535429,35.610323",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.535429,
+    "latitude": 35.610323,
+    "address": "山西省晋城市沁水县嘉峰镇潘庄村正西140米",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D25",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_026",
+    "name": "国华办案中心",
+    "sourceName": "国华办案中心",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 26,
+    "originalCoordinate": "112.871836,35.492997",
+    "sourceWebsite": null,
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.17813207705719,
+    "latitude": 35.687339848532304,
+    "originalSourceWebsite": "https://jingweidu.bmcx.com/",
+    "coordinateCorrection": {
+      "source": "user-provided-address-relookup",
+      "providedAt": "2026-10-06",
+      "rawCoordinate": "112.17813207705719,35.687339848532304",
+      "coordinateSystem": "UNKNOWN",
+      "providerConfirmed": false,
+      "initialWorkbookSha256": "edcd0e7864630836caada29b9920816848995c6cb1ba10e1477b4cb2a3e3af64",
+      "latestWorkbookSha256": "cf23f470af9678ea0e196a3ca2e8b74d66ce3ef090c2fc1c52300650d659c8e1",
+      "matchesLatestSourceCell": false
+    },
+    "address": "山西省晋城市沁水县龙港镇新建东街2509号（县公安局院内）",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D26",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_027",
+    "name": "中村派出所",
+    "sourceName": "中村派出所",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 27,
+    "originalCoordinate": "111.997508,35.564539",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 111.997508,
+    "latitude": 35.564539,
+    "address": "山西省晋城市沁水县中村镇新建东路18号（中村政府旁）",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D27",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_028",
+    "name": "郑庄派出所",
+    "sourceName": "郑庄派出所",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 28,
+    "originalCoordinate": "112.393976,35.733153",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.393976,
+    "latitude": 35.733153,
+    "address": "山西省晋城市沁水县郑庄镇郑庄村后场2号（坪曲线与郑王线交叉口南约40米）",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D28",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_029",
+    "name": "郑村派出所",
+    "sourceName": "郑村派出所",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 29,
+    "originalCoordinate": "112.581807,35.605593",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.581807,
+    "latitude": 35.605593,
+    "address": "山西省晋城市沁水县郑村镇肖庄村88号",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D29",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_030",
+    "name": "胡底派出所",
+    "sourceName": "胡底派出所",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 30,
+    "originalCoordinate": "112.622913,35.705256",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.622913,
+    "latitude": 35.705256,
+    "address": "山西省晋城市沁水县胡底乡桃弯街（331省道南50米）",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D30",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_031",
+    "name": "柿庄派出所",
+    "sourceName": "柿庄派出所",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 31,
+    "originalCoordinate": "112.704804,35.875531",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.704804,
+    "latitude": 35.875531,
+    "address": "山西省晋城市沁水县柿庄镇北固线（镇政府附近）",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D31",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_032",
+    "name": "十里派出所",
+    "sourceName": "十里派出所",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 32,
+    "originalCoordinate": "112.602622,35.931869",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.602622,
+    "latitude": 35.931869,
+    "address": "山西省晋城市沁水县十里乡河北村南窑上（754县道旁，定中线西米十字路口东北侧）",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D32",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_033",
+    "name": "张村派出所",
+    "sourceName": "张村派出所",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 33,
+    "originalCoordinate": "112.196568,35.578468",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.196568,
+    "latitude": 35.578468,
+    "address": "山西省晋城市沁水县张村乡张村村（定中线旁，乡政府西南约100米）",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D33",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_034",
+    "name": "土沃派出所",
+    "sourceName": "土沃派出所",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 34,
+    "originalCoordinate": "112.113223,35.550361",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.113223,
+    "latitude": 35.550361,
+    "address": "山西省晋城市沁水县土沃乡土沃村008号",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D34",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_035",
+    "name": "固县派出所",
+    "sourceName": "固县派出所",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 35,
+    "originalCoordinate": "112.601037,35.788075",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.601037,
+    "latitude": 35.788075,
+    "address": "山西省晋城市沁水县固县乡黑东线，固县乡政府正西120米（乡富铭小区西侧100米）",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D35",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_036",
+    "name": "梁庄幸福食堂",
+    "sourceName": "梁庄幸福食堂",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 36,
+    "originalCoordinate": "112.943671,35.785743",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.943671,
+    "latitude": 35.785743,
+    "address": "沁水县三三四省道梁庄村内",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D36",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_037",
+    "name": "工信局食堂",
+    "sourceName": "工信局食堂",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 37,
+    "originalCoordinate": "112.185119,35.688454",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.185119,
+    "latitude": 35.688454,
+    "address": "沁水县新建西街树理文化广场东北侧40米",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D37",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_038",
+    "name": "上川村森林消防食堂",
+    "sourceName": "上川村森林消防食堂",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 38,
+    "originalCoordinate": "112.179405,35.696844",
+    "sourceWebsite": null,
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.01876767473388,
+    "latitude": 35.45031452470219,
+    "originalSourceWebsite": "https://jingweidu.bmcx.com/",
+    "coordinateCorrection": {
+      "source": "user-provided-address-relookup",
+      "providedAt": "2026-10-06",
+      "rawCoordinate": "112.01876767473388,35.45031452470219",
+      "coordinateSystem": "UNKNOWN",
+      "providerConfirmed": false,
+      "initialWorkbookSha256": "edcd0e7864630836caada29b9920816848995c6cb1ba10e1477b4cb2a3e3af64",
+      "latestWorkbookSha256": "cf23f470af9678ea0e196a3ca2e8b74d66ce3ef090c2fc1c52300650d659c8e1",
+      "matchesLatestSourceCell": true
+    },
+    "address": "沁水县上川村河东1号",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D38",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_039",
+    "name": "固县森林消防食堂",
+    "sourceName": "固县森林消防食堂",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 39,
+    "originalCoordinate": "112.179405,35.696844",
+    "sourceWebsite": null,
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.60077006368422,
+    "latitude": 35.78966055838818,
+    "originalSourceWebsite": "https://jingweidu.bmcx.com/",
+    "coordinateCorrection": {
+      "source": "user-provided-address-relookup",
+      "providedAt": "2026-10-06",
+      "rawCoordinate": "112.60077006368422,35.78966055838818",
+      "coordinateSystem": "UNKNOWN",
+      "providerConfirmed": false,
+      "initialWorkbookSha256": "edcd0e7864630836caada29b9920816848995c6cb1ba10e1477b4cb2a3e3af64",
+      "latestWorkbookSha256": "cf23f470af9678ea0e196a3ca2e8b74d66ce3ef090c2fc1c52300650d659c8e1",
+      "matchesLatestSourceCell": true
+    },
+    "address": "沁水县固县乡中条山国有林管理局固县林场东",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D39",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_040",
+    "name": "森林消防总队",
+    "sourceName": "森林消防总队",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 40,
+    "originalCoordinate": "112.17978,35.696581",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.17978,
+    "latitude": 35.696581,
+    "address": "沁水县北坛南路485号",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D40",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_041",
+    "name": "环保局食堂",
+    "sourceName": "环保局食堂",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 41,
+    "originalCoordinate": "112.52369993858287,35.678175537089245",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.52369993858287,
+    "latitude": 35.678175537089245,
+    "address": "山西省晋城市沁水县端氏镇端氏外环路汽车站旁",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D41",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_042",
+    "name": "开发区李庄园区食堂",
+    "sourceName": "开发区李庄园区食堂",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 42,
+    "originalCoordinate": "112.63827950830773,35.82103538519251",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.63827950830773,
+    "latitude": 35.82103538519251,
+    "address": "山西省晋城市沁水县柿庄镇嘉沁农业公司柿庄应郭园区",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D42",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_043",
+    "name": "应急管理局食堂",
+    "sourceName": "应急管理局食堂",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 43,
+    "originalCoordinate": "112.19311516485796,35.68933298786157",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.19311516485796,
+    "latitude": 35.68933298786157,
+    "address": "山西省晋城市沁水县龙港镇新建东街482",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D43",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_044",
+    "name": "Z-固县镇政府",
+    "sourceName": "Z-固县镇政府",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 44,
+    "originalCoordinate": "112.601961,35.791",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.601961,
+    "latitude": 35.791,
+    "address": "",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D44",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_045",
+    "name": "z-郑庄镇政府",
+    "sourceName": "z-郑庄镇政府",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 45,
+    "originalCoordinate": "112.394764,35.731992",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.394764,
+    "latitude": 35.731992,
+    "address": "沁水县郑庄村郑庄镇政府",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D45",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_046",
+    "name": "沁水县水务局",
+    "sourceName": "沁水县水务局",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 46,
+    "originalCoordinate": "无",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": null,
+    "latitude": null,
+    "address": "",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D46",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_047",
+    "name": "沁水县行政审批服务管理局",
+    "sourceName": "沁水县行政审批服务管理局",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 47,
+    "originalCoordinate": "112.219705,35.686961",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.219705,
+    "latitude": 35.686961,
+    "address": "",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D47",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_048",
+    "name": "沁水县总工会",
+    "sourceName": "沁水县总工会",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 48,
+    "originalCoordinate": "无",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": null,
+    "latitude": null,
+    "address": "",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D48",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_049",
+    "name": "山西明源集团沁泽焦化有限公司",
+    "sourceName": "山西明源集团沁泽焦化有限公司",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 49,
+    "originalCoordinate": "111.990806,35.564932",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 111.990806,
+    "latitude": 35.564932,
+    "address": "",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D49",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_050",
+    "name": "沁水县东关小学",
+    "sourceName": "沁水县东关小学",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 50,
+    "originalCoordinate": "112.19962994219726,35.690161944853685",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.19962994219726,
+    "latitude": 35.690161944853685,
+    "address": "山西省晋城市沁水县龙港镇新建东街1111",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D50",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_051",
+    "name": "沁水县示范初级中学校",
+    "sourceName": "沁水县示范初级中学校",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 51,
+    "originalCoordinate": "112.18147378894324,35.688374039296",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.18147378894324,
+    "latitude": 35.688374039296,
+    "address": "山西省晋城市沁水县龙港镇新建西街575号",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D51",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_052",
+    "name": "沁水县住房和城乡建设管理局",
+    "sourceName": "沁水县住房和城乡建设管理局",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 52,
+    "originalCoordinate": "112.1822618251066,35.68849261431687",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.1822618251066,
+    "latitude": 35.68849261431687,
+    "address": "山西省晋城市沁水县龙港镇新建西街511",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D52",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_053",
+    "name": "A-中村煤矿",
+    "sourceName": "A-中村煤矿",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 53,
+    "originalCoordinate": "无",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": null,
+    "latitude": null,
+    "address": "",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D53",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_054",
+    "name": "A-九鑫煤矿",
+    "sourceName": "A-九鑫煤矿",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 54,
+    "originalCoordinate": "无",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": null,
+    "latitude": null,
+    "address": "",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D54",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_055",
+    "name": "A-柳氏民居",
+    "sourceName": "A-柳氏民居",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 55,
+    "originalCoordinate": "112.1479798639946,35.562295337420686",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.1479798639946,
+    "latitude": 35.562295337420686,
+    "address": "山西省晋城市沁水县土沃乡西文兴村柳氏民居景区西北约247米",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D55",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_056",
+    "name": "A-历山",
+    "sourceName": "A-历山",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 56,
+    "originalCoordinate": "无",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": null,
+    "latitude": null,
+    "address": "",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D56",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_057",
+    "name": "A-沁和职工餐厅",
+    "sourceName": "A-沁和职工餐厅",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 57,
+    "originalCoordinate": "无",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": null,
+    "latitude": null,
+    "address": "",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D57",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_058",
+    "name": "A-郑庄幼儿园",
+    "sourceName": "A-郑庄幼儿园",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 58,
+    "originalCoordinate": "112.252301,35.664737",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.252301,
+    "latitude": 35.664737,
+    "address": "沁水县S80陵侯告诉出口与S80陵侯高速交叉口南500米",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D58",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_059",
+    "name": "A-郑庄初中",
+    "sourceName": "A-郑庄初中",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 59,
+    "originalCoordinate": "112.39568,35.73037",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.39568,
+    "latitude": 35.73037,
+    "address": "沁水县郑庄镇郑庄村郑庄中学",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D59",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_060",
+    "name": "A-郑庄小学",
+    "sourceName": "A-郑庄小学",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 60,
+    "originalCoordinate": "112.393927,35.73356",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.393927,
+    "latitude": 35.73356,
+    "address": "沁水县S331与郑王线交叉路口",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D60",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_061",
+    "name": "A-东大小学",
+    "sourceName": "A-东大小学",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 61,
+    "originalCoordinate": "112.440246,35.718885",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.440246,
+    "latitude": 35.718885,
+    "address": "沁水县郑庄镇东大村东大小学",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D61",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_062",
+    "name": "A-职中（晋宝绿珍）",
+    "sourceName": "A-职中（晋宝绿珍）",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 62,
+    "originalCoordinate": "112.14925,35.668171",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.14925,
+    "latitude": 35.668171,
+    "address": "沁水县沁东线职业中学",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D62",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_063",
+    "name": "A-龙港初中",
+    "sourceName": "A-龙港初中",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 63,
+    "originalCoordinate": "112.153655,35.67067",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.153655,
+    "latitude": 35.67067,
+    "address": "沁水县沁东线龙港初中",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D63",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_064",
+    "name": "A-新乐幼儿园",
+    "sourceName": "A-新乐幼儿园",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 64,
+    "originalCoordinate": "112.187174,35.688769",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.187174,
+    "latitude": 35.688769,
+    "address": "沁水县新建西街46号",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D64",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "canteen_row_065",
+    "name": "A-晋宝绿珍（二中）",
+    "sourceName": "A-晋宝绿珍（二中）",
+    "sourceType": "后勤事业部",
+    "type": "canteen",
+    "sourceRow": 65,
+    "originalCoordinate": "暂时无法确认",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": null,
+    "latitude": null,
+    "address": "山西省晋城市高平市北城街街道友谊西街19",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D65",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "store_row_066",
+    "name": "金御府店",
+    "sourceName": "金御府店",
+    "sourceType": "门店",
+    "type": "store",
+    "sourceRow": 66,
+    "originalCoordinate": "112.192893,35.691608",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.192893,
+    "latitude": 35.691608,
+    "address": "山西省晋城市沁水县金域府北区商铺5号6/7/8号",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D66",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "store_row_067",
+    "name": "山水文苑店",
+    "sourceName": "山水文苑店",
+    "sourceType": "门店",
+    "type": "store",
+    "sourceRow": 67,
+    "originalCoordinate": "112.23882,35.686724",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.23882,
+    "latitude": 35.686724,
+    "address": "晋城市沁水县山水文苑小区3号楼102号商铺",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D67",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "store_row_068",
+    "name": "柳苑店",
+    "sourceName": "柳苑店",
+    "sourceType": "门店",
+    "type": "store",
+    "sourceRow": 68,
+    "originalCoordinate": "112.187175,35.690156",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.187175,
+    "latitude": 35.690156,
+    "address": "晋城市沁水县柳苑商城121/122号",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D68",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "store_row_069",
+    "name": "示范初中店",
+    "sourceName": "示范初中店",
+    "sourceType": "门店",
+    "type": "store",
+    "sourceRow": 69,
+    "originalCoordinate": "112.172687,35.682562",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.172687,
+    "latitude": 35.682562,
+    "address": "晋城市沁水县新建西街557号",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D69",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "store_row_070",
+    "name": "梅河店",
+    "sourceName": "梅河店",
+    "sourceType": "门店",
+    "type": "store",
+    "sourceRow": 70,
+    "originalCoordinate": "112.19061,35.691845",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.19061,
+    "latitude": 35.691845,
+    "address": "晋城市沁水县花园路438号",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D70",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "store_row_071",
+    "name": "丁香园店",
+    "sourceName": "丁香园店",
+    "sourceType": "门店",
+    "type": "store",
+    "sourceRow": 71,
+    "originalCoordinate": "112.207356,35.688378",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.207356,
+    "latitude": 35.688378,
+    "address": "晋城市沁水县新建东街3430号",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D71",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "store_row_072",
+    "name": "沁水大医院店",
+    "sourceName": "沁水大医院店",
+    "sourceType": "门店",
+    "type": "store",
+    "sourceRow": 72,
+    "originalCoordinate": "112.186726,35.690119",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.186726,
+    "latitude": 35.690119,
+    "address": "晋城市小岭社区安康路1号(沁水县医疗集团专家公寓楼202号)",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D72",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "store_row_073",
+    "name": "山水和园店",
+    "sourceName": "山水和园店",
+    "sourceType": "门店",
+    "type": "store",
+    "sourceRow": 73,
+    "originalCoordinate": "112.183562,35.689194",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.183562,
+    "latitude": 35.689194,
+    "address": "晋城市沁水县山水和园家居建材生活港5号楼2号商业网点",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D73",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "store_row_074",
+    "name": "总部示范店",
+    "sourceName": "总部示范店",
+    "sourceType": "门店",
+    "type": "store",
+    "sourceRow": 74,
+    "originalCoordinate": "112.122350,35.655438",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.12235,
+    "latitude": 35.655438,
+    "address": "晋城市沁水县迎头桥东北50米(G342北)",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D74",
+      "auditedAt": "2026-10-06"
+    }
+  },
+  {
+    "id": "warehouse_row_075",
+    "name": "沁水供应链园区",
+    "sourceName": "供应链园区",
+    "sourceType": "园区",
+    "type": "warehouse",
+    "sourceRow": 75,
+    "originalCoordinate": "112.122350,35.655438",
+    "sourceWebsite": "https://jingweidu.bmcx.com/",
+    "pointCoordinateSystem": "UNKNOWN",
+    "longitude": 112.12235,
+    "latitude": 35.655438,
+    "isDispatchOrigin": true,
+    "address": "晋城市沁水县迎头桥东北50米(G342北)",
+    "addressSource": {
+      "workbook": "大屏地图点位-26.10.5.xlsx",
+      "sheet": "Sheet1",
+      "cell": "D75",
+      "auditedAt": "2026-10-06"
+    }
+  }
+]

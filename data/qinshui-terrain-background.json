@@ -1,0 +1,19 @@
+{
+  "imageAsset": "assets/qinshui-terrain.png",
+  "sourceFile": "沁水曲屏-2-2.png",
+  "width": 3268,
+  "height": 1290,
+  "sha256": "8c087aa42b19fd8b4bd181c17f196315e664ab5a8f8d84ea16646c4a873baf3e",
+  "mode": "decorative",
+  "west": null,
+  "east": null,
+  "north": null,
+  "south": null,
+  "coordinateSystem": null,
+  "projection": null,
+  "active": true,
+  "metadataAudit": "Only DPI, sRGB, gamma and Software=Figma; no georeference information or sidecar. Do not infer bounds from reference picture.",
+  "georeferenced": false,
+  "decorativeUseConfirmedByUser": true,
+  "approvalDate": "2026-10-05"
+}

@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "sourceKind": "configured-monthly-estimates",
+  "scenarioVersion": "configured-monthly-estimates-v1",
+  "currency": "CNY",
+  "scenario": {
+    "policy": "configured-monthly-estimates",
+    "configurationSource": "user-authorized-placeholder",
+    "userAuthorized": true,
+    "anchorMonth": "2026-10",
+    "anchorSalesCny": 2002600,
+    "anchorSource": "user-request-correction",
+    "asOfDate": "2026-10-06",
+    "observedThrough": "2026-10-05",
+    "horizonMonths": 3,
+    "fittedModel": false,
+    "llmUsed": false,
+    "uncertaintyRangeProvided": false,
+    "note": "逐月预估为用户授权配置；不执行旧20%增长规则或历史下调记录。"
+  },
+  "currentMonth": {
+    "month": "2026-10",
+    "pointSalesCny": 2002600,
+    "type": "configured-current-month-projection",
+    "sourceKind": "configured-monthly-estimates",
+    "isActual": false
+  },
+  "months": [
+    {
+      "month": "2026-11",
+      "step": 1,
+      "pointSalesCny": 2020000,
+      "type": "configured-monthly-estimate",
+      "sourceKind": "configured-monthly-estimates",
+      "source": "user-authorized-placeholder",
+      "isActual": false
+    },
+    {
+      "month": "2026-12",
+      "step": 2,
+      "pointSalesCny": 3120000,
+      "type": "configured-monthly-estimate",
+      "sourceKind": "configured-monthly-estimates",
+      "source": "user-authorized-placeholder",
+      "isActual": false
+    },
+    {
+      "month": "2027-01",
+      "step": 3,
+      "pointSalesCny": 3580000,
+      "type": "configured-monthly-estimate",
+      "sourceKind": "configured-monthly-estimates",
+      "source": "user-authorized-placeholder",
+      "isActual": false
+    }
+  ]
+}
