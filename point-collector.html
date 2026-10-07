@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="dark">
+  <title>沁水网点现场坐标采集</title>
+  <style>
+    :root{color-scheme:dark;--bg:#07121e;--card:#102232;--line:#28475a;--text:#eaf5fb;--muted:#a9c1ce;--cyan:#53d6eb;--yellow:#ffe551;--error:#ffaba5}
+    *{box-sizing:border-box}[hidden]{display:none!important}body{margin:0;background:var(--bg);color:var(--text);font:16px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif}
+    main{max-width:720px;margin:auto;padding:24px 18px calc(32px + env(safe-area-inset-bottom))}h1{margin:0 0 6px;font-size:26px;line-height:1.35}h2{font-size:19px;margin:0 0 12px}p{margin:8px 0}a{color:var(--cyan)}
+    .subtitle,.muted{color:var(--muted)}.card{margin-top:18px;padding:18px;border:1px solid var(--line);border-radius:14px;background:var(--card)}.notice{border-left:4px solid var(--yellow)}
+    label{display:block;font-weight:600;margin:14px 0 6px}input[type=search],select{width:100%;min-height:48px;padding:10px 12px;border:1px solid var(--line);border-radius:8px;background:#071725;color:var(--text);font:inherit}select{padding-right:28px}
+    button{min-height:48px;padding:11px 18px;border:1px solid var(--cyan);border-radius:9px;background:#174554;color:var(--text);font:inherit;font-weight:600;cursor:pointer}button:disabled{opacity:.45;cursor:default}.actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:16px}.primary{background:var(--cyan);color:#06212c}.secondary{background:transparent}
+    .address{overflow-wrap:anywhere;padding:10px 0}.confirm{display:flex;align-items:flex-start;gap:10px;font-weight:500}.confirm input{width:22px;height:22px;flex:none;margin:2px 0}.metrics{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.metrics div{padding:10px;background:#081925;border-radius:8px}.metrics dt{color:var(--muted);font-size:14px}.metrics dd{margin:4px 0 0;overflow-wrap:anywhere;font-variant-numeric:tabular-nums}.time{grid-column:1/-1}
+    #status{min-height:28px;padding-top:12px;color:var(--cyan)}#status[data-kind=error]{color:var(--error)}#status[data-kind=warning]{color:var(--yellow)}#storage-notice{color:var(--yellow)}
+    ul{list-style:none;padding:0;margin:12px 0 0}.saved-row{padding:12px 0;border-top:1px solid var(--line)}.saved-row strong{display:block}.saved-row .muted{font-size:14px;overflow-wrap:anywhere}footer{margin-top:24px;font-size:14px;color:var(--muted)}
+    :focus-visible{outline:3px solid var(--yellow);outline-offset:3px}@media(max-width:420px){main{padding-left:14px;padding-right:14px}.card{padding:15px}.actions button{width:100%}}
+  </style>
+  <script src="pending-points-data.js" defer></script>
+  <script src="point-collector.js" defer></script>
+</head>
+<body>
+<main>
+  <header><h1>网点现场坐标采集</h1><p class="subtitle">沁水供应链 · WGS84 手机定位</p></header>
+  <section class="card notice" aria-label="现场采集要求">
+    <strong>请先到所选网点入口附近，再获取定位。</strong>
+    <p>在家中或其他地点定位，记录的是你所在的位置，不是所选网点。每次由你点击定位；本页不自动或持续定位，也不上传位置。</p>
+  </section>
+  <section class="card" aria-labelledby="collect-heading">
+    <h2 id="collect-heading">1. 选择现场网点</h2>
+    <label for="point-search">搜索名称或地址</label>
+    <input id="point-search" type="search" placeholder="输入网点名称、街道或地址" autocomplete="off">
+    <label for="point-select">网点</label>
+    <select id="point-select"><option value="">请选择网点</option></select>
+    <p id="list-count" class="muted"></p>
+    <p id="point-address" class="address">地址：请先选择网点</p>
+    <p id="selected-saved" class="muted"></p>
+    <h2>2. 获取一次定位</h2>
+    <button id="locate-button" class="primary" type="button" disabled>获取现场定位</button>
+    <dl id="position-result" class="metrics" hidden>
+      <div><dt>经度（原始值）</dt><dd id="longitude-value"></dd></div>
+      <div><dt>纬度（原始值）</dt><dd id="latitude-value"></dd></div>
+      <div><dt>精度</dt><dd id="accuracy-value"></dd></div>
+      <div><dt>坐标系</dt><dd>WGS84</dd></div>
+      <div class="time"><dt>定位时间（本地）</dt><dd id="timestamp-value"></dd></div>
+    </dl>
+    <label class="confirm" for="onsite-confirm"><input id="onsite-confirm" type="checkbox" disabled><span>我在所选网点入口附近</span></label>
+    <p class="muted">精度超过100米时不能保存，请到户外空旷处重新定位。</p>
+    <button id="save-button" type="button" disabled>确认并保存到本机</button>
+    <p id="status" role="status" aria-live="polite"></p>
+  </section>
+  <section class="card" aria-labelledby="saved-heading">
+    <h2 id="saved-heading">3. 导出本机采集记录</h2>
+    <p id="saved-count">已保存0个网点</p>
+    <p class="muted">同一网点再次保存会替换该网点记录。记录只保存在当前浏览器；请及时导出备份。</p>
+    <p id="storage-notice" role="status"></p>
+    <div class="actions"><button id="export-button" type="button" disabled>导出 JSON 文件</button></div>
+    <ul id="saved-list" aria-label="本机已保存网点"></ul>
+  </section>
+  <footer><p>请通过 HTTPS 网站在手机浏览器中打开，并允许浏览器和系统定位。手机访问局域网 HTTP 页面通常不能使用定位。</p><p>位置由浏览器提供，精度以结果为准。依据 <a href="https://www.w3.org/TR/geolocation/" target="_blank" rel="noopener noreferrer">W3C Geolocation 标准</a>，导出不含设备ID、用户名或电话。</p></footer>
+  <noscript><p class="card">请启用浏览器 JavaScript 后使用采集页。</p></noscript>
+</main>
+</body>
+</html>
