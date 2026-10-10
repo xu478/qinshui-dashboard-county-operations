@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="点击项目发展路径图，进入沁水县域运营看板。" />
+    <title>沁水供应链项目发展路径与经营预期</title>
+    <style>
+      :root {
+        color-scheme: dark;
+        --canvas: #020b18;
+        --cyan: #0ce9ff;
+      }
+
+      * { box-sizing: border-box; }
+
+      html, body {
+        min-height: 100%;
+        margin: 0;
+      }
+
+      body {
+        background: radial-gradient(circle at 50% 15%, rgba(8, 79, 133, .38), transparent 42%), var(--canvas);
+        color: #eafcff;
+        font-family: Inter, "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+      }
+
+      main {
+        min-height: 100svh;
+        display: grid;
+        place-items: center;
+        padding: clamp(14px, 3vw, 48px);
+      }
+
+      a {
+        position: relative;
+        display: block;
+        width: min(100%, 1997px);
+        overflow: hidden;
+        border: 1px solid rgba(61, 211, 255, .42);
+        border-radius: clamp(10px, 1.1vw, 20px);
+        background: #03162a;
+        box-shadow: 0 30px 80px rgba(0, 0, 0, .52);
+        outline: none;
+        transition: transform 180ms ease, border-color 180ms ease, box-shadow 180ms ease;
+      }
+
+      img {
+        display: block;
+        width: 100%;
+        height: auto;
+      }
+
+      .hint {
+        position: absolute;
+        right: clamp(12px, 2.1vw, 32px);
+        bottom: clamp(12px, 2.1vw, 28px);
+        display: inline-flex;
+        align-items: center;
+        gap: .55rem;
+        padding: .7rem 1rem;
+        border: 1px solid rgba(99, 235, 255, .62);
+        border-radius: 999px;
+        background: rgba(0, 19, 42, .82);
+        color: #eaffff;
+        font-size: clamp(12px, 1.05vw, 16px);
+        font-weight: 650;
+        letter-spacing: .03em;
+        backdrop-filter: blur(10px);
+        opacity: 0;
+        transform: translateY(8px);
+        transition: opacity 180ms ease, transform 180ms ease;
+      }
+
+      a:hover, a:focus-visible {
+        border-color: var(--cyan);
+        box-shadow: 0 34px 90px rgba(0, 0, 0, .58), 0 0 32px rgba(12, 233, 255, .38);
+        transform: translateY(-2px);
+      }
+
+      a:hover .hint, a:focus-visible .hint {
+        opacity: 1;
+        transform: translateY(0);
+      }
+
+      a:focus-visible {
+        outline: 3px solid rgba(12, 233, 255, .65);
+        outline-offset: 5px;
+      }
+
+      .arrow { color: var(--cyan); font-size: 1.2em; }
+
+      @media (hover: none) {
+        .hint { opacity: 1; transform: none; }
+      }
+
+      @media (max-width: 640px) {
+        main { padding: 10px; }
+        .hint { right: 8px; bottom: 8px; padding: .48rem .72rem; }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <a href="../" aria-label="打开沁水县域运营看板">
+        <img src="project-roadmap.jpg" width="1997" height="787" alt="沁水供应链项目发展路径与经营预期" />
+        <span class="hint" aria-hidden="true">点击图片进入县域运营看板 <span class="arrow">↗</span></span>
+      </a>
+    </main>
+  </body>
+</html>
